@@ -1,0 +1,276 @@
+2025/05/24 Sat 19:01:41.751712 [411976 10739128][INFO] SubConverter v0.7.2 starting up..
+]0;SubConverter v0.7.22025/05/24 Sat 19:01:41.753161 [411976 10739128][INFO] Reading preference settings...
+2025/05/24 Sat 19:01:41.780160 [411976 10739128][INFO] Updating ruleset url 'rules/LocalAreaNetwork.list' with group '🎯 全球直连'.
+2025/05/24 Sat 19:01:41.780354 [411976 10739128][INFO] Updating ruleset url 'rules/MSServices.list' with group 'Ⓜ️ 微软服务'.
+2025/05/24 Sat 19:01:41.780564 [411976 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Unbreak.list' with group '🎯 全球直连'.
+2025/05/24 Sat 19:01:41.780699 [411976 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/AdRule.list' with group '🛑 全球拦截'.
+2025/05/24 Sat 19:01:41.781275 [411976 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list' with group '🛑 全球拦截'.
+2025/05/24 Sat 19:01:41.781411 [411976 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Video/Netflix.list' with group '🎥 NETFLIX'.
+2025/05/24 Sat 19:01:41.781566 [411976 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Streaming.list' with group '🌍 国外媒体'.
+2025/05/24 Sat 19:01:41.781732 [411976 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Bilibili.list' with group '🌏 国内媒体'.
+2025/05/24 Sat 19:01:41.781845 [411976 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/iQiyi.list' with group '🌏 国内媒体'.
+2025/05/24 Sat 19:01:41.781956 [411976 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Letv.list' with group '🌏 国内媒体'.
+2025/05/24 Sat 19:01:41.782083 [411976 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/MOO.list' with group '🌏 国内媒体'.
+2025/05/24 Sat 19:01:41.782191 [411976 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Tencent Video.list' with group '🌏 国内媒体'.
+2025/05/24 Sat 19:01:41.782317 [411976 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Youku.list' with group '🌏 国内媒体'.
+2025/05/24 Sat 19:01:41.782421 [411976 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list' with group '📲 电报信息'.
+2025/05/24 Sat 19:01:41.782552 [411976 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Global.list' with group '🔰 节点选择'.
+2025/05/24 Sat 19:01:41.782735 [411976 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Apple/Apple.list' with group '🍎 苹果服务'.
+2025/05/24 Sat 19:01:41.782866 [411976 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/China.list' with group '🎯 全球直连'.
+2025/05/24 Sat 19:01:41.783013 [411976 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/Download.list' with group '🎯 全球直连'.
+2025/05/24 Sat 19:01:41.783118 [411976 10739128][INFO] Adding rule 'GEOIP,CN,🎯 全球直连'.
+2025/05/24 Sat 19:01:41.783169 [411976 10739128][INFO] Adding rule 'FINAL,🐟 漏网之鱼'.
+2025/05/24 Sat 19:01:41.783232 [411976 10739128][INFO] Reading generator configuration...
+2025/05/24 Sat 19:01:41.783289 [411976 10739128][INFO] Read generator configuration completed.
+
+2025/05/24 Sat 19:01:41.783313 [411976 10739128][INFO] Generating all artifacts...
+2025/05/24 Sat 19:01:41.783337 [411976 10739128][INFO] Generating artifact 'test'...
+2025/05/24 Sat 19:01:41.783414 [411976 10739128][VERB] Imported 0 item(s).
+2025/05/24 Sat 19:01:41.783484 [411976 10739128][INFO] Fetching node data from url '../../temp/clash.yaml'.
+2025/05/24 Sat 19:01:41.784927 [411976 10739128][VERB] Received Link.
+2025/05/24 Sat 19:01:41.784963 [411976 10739128][VERB] Parsing configuration file data...
+2025/05/24 Sat 19:01:41.790006 [411976 10739128][VERB] Node  SSProvider - 🇭🇰 [专线] 广港 电信|6x  has been added.
+2025/05/24 Sat 19:01:41.790044 [411976 10739128][VERB] Node  SSProvider - 🇭🇰 [专线] 广港 联通|6x  has been added.
+2025/05/24 Sat 19:01:41.790080 [411976 10739128][VERB] Node  SSProvider - 🇸🇬 [专线] 新加坡 BGP|4x  has been added.
+2025/05/24 Sat 19:01:41.790110 [411976 10739128][VERB] Node  SSProvider - 🇯🇵 [专线] 日本 BGP|4x  has been added.
+2025/05/24 Sat 19:01:41.790139 [411976 10739128][VERB] Node  SSProvider - 🇭🇰 [专线] 深港 BGP|3x  has been added.
+2025/05/24 Sat 19:01:41.790168 [411976 10739128][VERB] Node  SSProvider - 🇭🇰 [专线] 深港 电信|3x  has been added.
+2025/05/24 Sat 19:01:41.790198 [411976 10739128][VERB] Node  SSProvider - 🇭🇰 [专线] 深港 移动|3x  has been added.
+2025/05/24 Sat 19:01:41.790227 [411976 10739128][VERB] Node  SSProvider - 🇭🇰 [专线] 深港 联通|3x  has been added.
+2025/05/24 Sat 19:01:41.790257 [411976 10739128][VERB] Node  SSProvider - 🇭🇰 [专线] 香港家宽 BGP|4x  has been added.
+2025/05/24 Sat 19:01:41.790286 [411976 10739128][VERB] Node  SSProvider - 🇺🇦 [隧道] 乌克兰|2x  has been added.
+2025/05/24 Sat 19:01:41.790315 [411976 10739128][VERB] Node  SSProvider - 🇷🇺 [隧道] 俄罗斯|2x  has been added.
+2025/05/24 Sat 19:01:41.790344 [411976 10739128][VERB] Node  SSProvider - 🇦🇶 [隧道] 南极洲|2x  has been added.
+2025/05/24 Sat 19:01:41.790373 [411976 10739128][VERB] Node  SSProvider - 🇹🇼 [隧道] 台湾家宽A|2x  has been added.
+2025/05/24 Sat 19:01:41.790403 [411976 10739128][VERB] Node  SSProvider - 🇹🇼 [隧道] 台湾家宽B|2x  has been added.
+2025/05/24 Sat 19:01:41.790432 [411976 10739128][VERB] Node  SSProvider - 🇹🇼 [隧道] 台湾家宽C|2x  has been added.
+2025/05/24 Sat 19:01:41.790461 [411976 10739128][VERB] Node  SSProvider - 🇹🇷 [隧道] 土耳其|2x  has been added.
+2025/05/24 Sat 19:01:41.790490 [411976 10739128][VERB] Node  SSProvider - 🇩🇪 [隧道] 德国A|2x  has been added.
+2025/05/24 Sat 19:01:41.790518 [411976 10739128][VERB] Node  SSProvider - 🇩🇪 [隧道] 德国B|2x  has been added.
+2025/05/24 Sat 19:01:41.790548 [411976 10739128][VERB] Node  SSProvider - 🇸🇬 [隧道] 新加坡A|2x  has been added.
+2025/05/24 Sat 19:01:41.790577 [411976 10739128][VERB] Node  SSProvider - 🇸🇬 [隧道] 新加坡B|2x  has been added.
+2025/05/24 Sat 19:01:41.790606 [411976 10739128][VERB] Node  SSProvider - 🇸🇬 [隧道] 新加坡C|2x  has been added.
+2025/05/24 Sat 19:01:41.790635 [411976 10739128][VERB] Node  SSProvider - 🇯🇵 [隧道] 日本A|2x  has been added.
+2025/05/24 Sat 19:01:41.790664 [411976 10739128][VERB] Node  SSProvider - 🇯🇵 [隧道] 日本B|2x  has been added.
+2025/05/24 Sat 19:01:41.790692 [411976 10739128][VERB] Node  SSProvider - 🇲🇴 [隧道] 澳门|2x  has been added.
+2025/05/24 Sat 19:01:41.790721 [411976 10739128][VERB] Node  SSProvider - 🇺🇸 [隧道] 美国A|2x  has been added.
+2025/05/24 Sat 19:01:41.790749 [411976 10739128][VERB] Node  SSProvider - 🇺🇸 [隧道] 美国B|2x  has been added.
+2025/05/24 Sat 19:01:41.790778 [411976 10739128][VERB] Node  SSProvider - 🇺🇸 [隧道] 美国家宽|2x  has been added.
+2025/05/24 Sat 19:01:41.790807 [411976 10739128][VERB] Node  SSProvider - 🇬🇧 [隧道] 英国|2x  has been added.
+2025/05/24 Sat 19:01:41.790836 [411976 10739128][VERB] Node  SSProvider - 🇵🇭 [隧道] 菲律宾 家宽|2x  has been added.
+2025/05/24 Sat 19:01:41.790865 [411976 10739128][VERB] Node  SSProvider - 🇻🇳 [隧道] 越南|2x  has been added.
+2025/05/24 Sat 19:01:41.790893 [411976 10739128][VERB] Node  SSProvider - 🇦🇷 [隧道] 阿根廷|2x  has been added.
+2025/05/24 Sat 19:01:41.790922 [411976 10739128][VERB] Node  SSProvider - 🇰🇷 [隧道] 韩国|2x  has been added.
+2025/05/24 Sat 19:01:41.790951 [411976 10739128][VERB] Node  SSProvider - 🇰🇷 [隧道] 韩国 家宽|3x  has been added.
+2025/05/24 Sat 19:01:41.790980 [411976 10739128][VERB] Node  SSProvider - 🇭🇰 [隧道] 香港A|2x  has been added.
+2025/05/24 Sat 19:01:41.791008 [411976 10739128][VERB] Node  SSProvider - 🇭🇰 [隧道] 香港B|2x  has been added.
+2025/05/24 Sat 19:01:41.791039 [411976 10739128][VERB] Node  SSProvider - 🇭🇰 [隧道] 香港C|2x  has been added.
+2025/05/24 Sat 19:01:41.791068 [411976 10739128][VERB] Node  SSProvider - 🇭🇰 [隧道] 香港E 解锁|2x  has been added.
+2025/05/24 Sat 19:01:41.791097 [411976 10739128][VERB] Node  SSProvider - 🇭🇰 [隧道] 香港家宽|2x  has been added.
+2025/05/24 Sat 19:01:41.791126 [411976 10739128][VERB] Node  SSProvider - 🇭🇰 [隧道] 香港家宽B|2x  has been added.
+2025/05/24 Sat 19:01:41.791156 [411976 10739128][VERB] Node  SSProvider - 🇲🇾 [隧道] 马来西亚 家宽|2x  has been added.
+2025/05/24 Sat 19:01:41.791185 [411976 10739128][VERB] Node  V2RayProvider - 🇹🇼 [直连] 台湾家宽B  has been added.
+2025/05/24 Sat 19:01:41.791215 [411976 10739128][VERB] Node  V2RayProvider - 🇹🇼 [直连] 台湾家宽C  has been added.
+2025/05/24 Sat 19:01:41.791244 [411976 10739128][VERB] Node  V2RayProvider - 🇹🇼 [直连] 台湾家宽D  has been added.
+2025/05/24 Sat 19:01:41.791273 [411976 10739128][VERB] Node  V2RayProvider - 🇹🇼 [直连] 台湾家宽G  has been added.
+2025/05/24 Sat 19:01:41.791302 [411976 10739128][VERB] Node  V2RayProvider - 🇺🇸 [直连] 美国 防失联用  has been added.
+2025/05/24 Sat 19:01:41.791326 [411976 10739128][VERB] Filter done.
+2025/05/24 Sat 19:01:41.792030 [411976 10739128][INFO] Generate target: Clash
+2025/05/24 Sat 19:01:41.824816 [411976 10739128][INFO] Generate completed.
+2025/05/24 Sat 19:01:41.825325 [411976 10739128][INFO] Artifact 'test' generate SUCCESS!
+
+2025/05/24 Sat 19:01:41.825354 [411976 10739128][INFO] Generating artifact 'test_profile'...
+2025/05/24 Sat 19:01:41.825400 [411976 10739128][INFO] Trying to load profile 'profiles/example_profile.ini'.
+2025/05/24 Sat 19:01:41.825446 [411976 10739128][INFO] Trying to parse profile 'profiles/example_profile.ini'.
+2025/05/24 Sat 19:01:41.825581 [411976 10739128][VERB] Imported 0 item(s).
+2025/05/24 Sat 19:01:41.825620 [411976 10739128][INFO] Fetching node data from url 'ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwYXNzd29yZA@www.example.com:1080#Example'.
+2025/05/24 Sat 19:01:41.826905 [411976 10739128][VERB] Received Link.
+2025/05/24 Sat 19:01:41.826995 [411976 10739128][INFO] Generate target: Clash
+2025/05/24 Sat 19:01:41.848072 [411976 10739128][INFO] Generate completed.
+2025/05/24 Sat 19:01:41.848484 [411976 10739128][INFO] Artifact 'test_profile' generate SUCCESS!
+
+2025/05/24 Sat 19:01:41.848513 [411976 10739128][INFO] All artifact generated. Exiting...
+2025/05/24 Sat 19:05:15.975150 [412150 10739128][INFO] SubConverter v0.7.2 starting up..
+]0;SubConverter v0.7.22025/05/24 Sat 19:05:15.976620 [412150 10739128][INFO] Reading preference settings...
+2025/05/24 Sat 19:05:16.005044 [412150 10739128][INFO] Updating ruleset url 'rules/LocalAreaNetwork.list' with group '🎯 全球直连'.
+2025/05/24 Sat 19:05:16.005232 [412150 10739128][INFO] Updating ruleset url 'rules/MSServices.list' with group 'Ⓜ️ 微软服务'.
+2025/05/24 Sat 19:05:16.005402 [412150 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Unbreak.list' with group '🎯 全球直连'.
+2025/05/24 Sat 19:05:16.005542 [412150 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/AdRule.list' with group '🛑 全球拦截'.
+2025/05/24 Sat 19:05:16.006099 [412150 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list' with group '🛑 全球拦截'.
+2025/05/24 Sat 19:05:16.006241 [412150 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Video/Netflix.list' with group '🎥 NETFLIX'.
+2025/05/24 Sat 19:05:16.006397 [412150 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Streaming.list' with group '🌍 国外媒体'.
+2025/05/24 Sat 19:05:16.006555 [412150 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Bilibili.list' with group '🌏 国内媒体'.
+2025/05/24 Sat 19:05:16.006657 [412150 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/iQiyi.list' with group '🌏 国内媒体'.
+2025/05/24 Sat 19:05:16.006771 [412150 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Letv.list' with group '🌏 国内媒体'.
+2025/05/24 Sat 19:05:16.006891 [412150 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/MOO.list' with group '🌏 国内媒体'.
+2025/05/24 Sat 19:05:16.007015 [412150 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Tencent Video.list' with group '🌏 国内媒体'.
+2025/05/24 Sat 19:05:16.007120 [412150 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Youku.list' with group '🌏 国内媒体'.
+2025/05/24 Sat 19:05:16.007224 [412150 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list' with group '📲 电报信息'.
+2025/05/24 Sat 19:05:16.007340 [412150 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Global.list' with group '🔰 节点选择'.
+2025/05/24 Sat 19:05:16.007501 [412150 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Apple/Apple.list' with group '🍎 苹果服务'.
+2025/05/24 Sat 19:05:16.007631 [412150 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/China.list' with group '🎯 全球直连'.
+2025/05/24 Sat 19:05:16.007782 [412150 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/Download.list' with group '🎯 全球直连'.
+2025/05/24 Sat 19:05:16.007884 [412150 10739128][INFO] Adding rule 'GEOIP,CN,🎯 全球直连'.
+2025/05/24 Sat 19:05:16.007933 [412150 10739128][INFO] Adding rule 'FINAL,🐟 漏网之鱼'.
+2025/05/24 Sat 19:05:16.008004 [412150 10739128][INFO] Reading generator configuration...
+2025/05/24 Sat 19:05:16.008059 [412150 10739128][INFO] Read generator configuration completed.
+
+2025/05/24 Sat 19:05:16.008084 [412150 10739128][INFO] Generating all artifacts...
+2025/05/24 Sat 19:05:16.008108 [412150 10739128][INFO] Generating artifact 'test'...
+2025/05/24 Sat 19:05:16.008185 [412150 10739128][VERB] Imported 0 item(s).
+2025/05/24 Sat 19:05:16.008252 [412150 10739128][INFO] Fetching node data from url '../../temp/clash.yaml'.
+2025/05/24 Sat 19:05:16.009711 [412150 10739128][VERB] Received Link.
+2025/05/24 Sat 19:05:16.009746 [412150 10739128][VERB] Parsing configuration file data...
+2025/05/24 Sat 19:05:16.014809 [412150 10739128][VERB] Node  SSProvider - 🇭🇰 [专线] 广港 电信|6x  has been added.
+2025/05/24 Sat 19:05:16.014846 [412150 10739128][VERB] Node  SSProvider - 🇭🇰 [专线] 广港 联通|6x  has been added.
+2025/05/24 Sat 19:05:16.014877 [412150 10739128][VERB] Node  SSProvider - 🇸🇬 [专线] 新加坡 BGP|4x  has been added.
+2025/05/24 Sat 19:05:16.014906 [412150 10739128][VERB] Node  SSProvider - 🇯🇵 [专线] 日本 BGP|4x  has been added.
+2025/05/24 Sat 19:05:16.014935 [412150 10739128][VERB] Node  SSProvider - 🇭🇰 [专线] 深港 BGP|3x  has been added.
+2025/05/24 Sat 19:05:16.014965 [412150 10739128][VERB] Node  SSProvider - 🇭🇰 [专线] 深港 电信|3x  has been added.
+2025/05/24 Sat 19:05:16.014994 [412150 10739128][VERB] Node  SSProvider - 🇭🇰 [专线] 深港 移动|3x  has been added.
+2025/05/24 Sat 19:05:16.015023 [412150 10739128][VERB] Node  SSProvider - 🇭🇰 [专线] 深港 联通|3x  has been added.
+2025/05/24 Sat 19:05:16.015053 [412150 10739128][VERB] Node  SSProvider - 🇭🇰 [专线] 香港家宽 BGP|4x  has been added.
+2025/05/24 Sat 19:05:16.015082 [412150 10739128][VERB] Node  SSProvider - 🇺🇦 [隧道] 乌克兰|2x  has been added.
+2025/05/24 Sat 19:05:16.015111 [412150 10739128][VERB] Node  SSProvider - 🇷🇺 [隧道] 俄罗斯|2x  has been added.
+2025/05/24 Sat 19:05:16.015140 [412150 10739128][VERB] Node  SSProvider - 🇦🇶 [隧道] 南极洲|2x  has been added.
+2025/05/24 Sat 19:05:16.015170 [412150 10739128][VERB] Node  SSProvider - 🇹🇼 [隧道] 台湾家宽A|2x  has been added.
+2025/05/24 Sat 19:05:16.015199 [412150 10739128][VERB] Node  SSProvider - 🇹🇼 [隧道] 台湾家宽B|2x  has been added.
+2025/05/24 Sat 19:05:16.015233 [412150 10739128][VERB] Node  SSProvider - 🇹🇼 [隧道] 台湾家宽C|2x  has been added.
+2025/05/24 Sat 19:05:16.015262 [412150 10739128][VERB] Node  SSProvider - 🇹🇷 [隧道] 土耳其|2x  has been added.
+2025/05/24 Sat 19:05:16.015291 [412150 10739128][VERB] Node  SSProvider - 🇩🇪 [隧道] 德国A|2x  has been added.
+2025/05/24 Sat 19:05:16.015319 [412150 10739128][VERB] Node  SSProvider - 🇩🇪 [隧道] 德国B|2x  has been added.
+2025/05/24 Sat 19:05:16.015349 [412150 10739128][VERB] Node  SSProvider - 🇸🇬 [隧道] 新加坡A|2x  has been added.
+2025/05/24 Sat 19:05:16.015378 [412150 10739128][VERB] Node  SSProvider - 🇸🇬 [隧道] 新加坡B|2x  has been added.
+2025/05/24 Sat 19:05:16.015407 [412150 10739128][VERB] Node  SSProvider - 🇸🇬 [隧道] 新加坡C|2x  has been added.
+2025/05/24 Sat 19:05:16.015436 [412150 10739128][VERB] Node  SSProvider - 🇯🇵 [隧道] 日本A|2x  has been added.
+2025/05/24 Sat 19:05:16.015464 [412150 10739128][VERB] Node  SSProvider - 🇯🇵 [隧道] 日本B|2x  has been added.
+2025/05/24 Sat 19:05:16.015493 [412150 10739128][VERB] Node  SSProvider - 🇲🇴 [隧道] 澳门|2x  has been added.
+2025/05/24 Sat 19:05:16.015521 [412150 10739128][VERB] Node  SSProvider - 🇺🇸 [隧道] 美国A|2x  has been added.
+2025/05/24 Sat 19:05:16.015550 [412150 10739128][VERB] Node  SSProvider - 🇺🇸 [隧道] 美国B|2x  has been added.
+2025/05/24 Sat 19:05:16.015579 [412150 10739128][VERB] Node  SSProvider - 🇺🇸 [隧道] 美国家宽|2x  has been added.
+2025/05/24 Sat 19:05:16.015608 [412150 10739128][VERB] Node  SSProvider - 🇬🇧 [隧道] 英国|2x  has been added.
+2025/05/24 Sat 19:05:16.015637 [412150 10739128][VERB] Node  SSProvider - 🇵🇭 [隧道] 菲律宾 家宽|2x  has been added.
+2025/05/24 Sat 19:05:16.015666 [412150 10739128][VERB] Node  SSProvider - 🇻🇳 [隧道] 越南|2x  has been added.
+2025/05/24 Sat 19:05:16.015694 [412150 10739128][VERB] Node  SSProvider - 🇦🇷 [隧道] 阿根廷|2x  has been added.
+2025/05/24 Sat 19:05:16.015723 [412150 10739128][VERB] Node  SSProvider - 🇰🇷 [隧道] 韩国|2x  has been added.
+2025/05/24 Sat 19:05:16.015752 [412150 10739128][VERB] Node  SSProvider - 🇰🇷 [隧道] 韩国 家宽|3x  has been added.
+2025/05/24 Sat 19:05:16.015780 [412150 10739128][VERB] Node  SSProvider - 🇭🇰 [隧道] 香港A|2x  has been added.
+2025/05/24 Sat 19:05:16.015809 [412150 10739128][VERB] Node  SSProvider - 🇭🇰 [隧道] 香港B|2x  has been added.
+2025/05/24 Sat 19:05:16.015837 [412150 10739128][VERB] Node  SSProvider - 🇭🇰 [隧道] 香港C|2x  has been added.
+2025/05/24 Sat 19:05:16.015866 [412150 10739128][VERB] Node  SSProvider - 🇭🇰 [隧道] 香港E 解锁|2x  has been added.
+2025/05/24 Sat 19:05:16.015895 [412150 10739128][VERB] Node  SSProvider - 🇭🇰 [隧道] 香港家宽|2x  has been added.
+2025/05/24 Sat 19:05:16.015924 [412150 10739128][VERB] Node  SSProvider - 🇭🇰 [隧道] 香港家宽B|2x  has been added.
+2025/05/24 Sat 19:05:16.015954 [412150 10739128][VERB] Node  SSProvider - 🇲🇾 [隧道] 马来西亚 家宽|2x  has been added.
+2025/05/24 Sat 19:05:16.015983 [412150 10739128][VERB] Node  V2RayProvider - 🇹🇼 [直连] 台湾家宽B  has been added.
+2025/05/24 Sat 19:05:16.016012 [412150 10739128][VERB] Node  V2RayProvider - 🇹🇼 [直连] 台湾家宽C  has been added.
+2025/05/24 Sat 19:05:16.016042 [412150 10739128][VERB] Node  V2RayProvider - 🇹🇼 [直连] 台湾家宽D  has been added.
+2025/05/24 Sat 19:05:16.016071 [412150 10739128][VERB] Node  V2RayProvider - 🇹🇼 [直连] 台湾家宽G  has been added.
+2025/05/24 Sat 19:05:16.016100 [412150 10739128][VERB] Node  V2RayProvider - 🇺🇸 [直连] 美国 防失联用  has been added.
+2025/05/24 Sat 19:05:16.016124 [412150 10739128][VERB] Filter done.
+2025/05/24 Sat 19:05:16.016836 [412150 10739128][INFO] Generate target: Clash
+2025/05/24 Sat 19:05:16.049695 [412150 10739128][INFO] Generate completed.
+2025/05/24 Sat 19:05:16.050207 [412150 10739128][INFO] Artifact 'test' generate SUCCESS!
+
+2025/05/24 Sat 19:05:16.050236 [412150 10739128][INFO] Generating artifact 'test_profile'...
+2025/05/24 Sat 19:05:16.050281 [412150 10739128][INFO] Trying to load profile 'profiles/example_profile.ini'.
+2025/05/24 Sat 19:05:16.050326 [412150 10739128][INFO] Trying to parse profile 'profiles/example_profile.ini'.
+2025/05/24 Sat 19:05:16.050462 [412150 10739128][VERB] Imported 0 item(s).
+2025/05/24 Sat 19:05:16.050502 [412150 10739128][INFO] Fetching node data from url 'ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwYXNzd29yZA@www.example.com:1080#Example'.
+2025/05/24 Sat 19:05:16.051790 [412150 10739128][VERB] Received Link.
+2025/05/24 Sat 19:05:16.051876 [412150 10739128][INFO] Generate target: Clash
+2025/05/24 Sat 19:05:16.072948 [412150 10739128][INFO] Generate completed.
+2025/05/24 Sat 19:05:16.073576 [412150 10739128][INFO] Artifact 'test_profile' generate SUCCESS!
+
+2025/05/24 Sat 19:05:16.073605 [412150 10739128][INFO] All artifact generated. Exiting...
+2025/05/24 Sat 19:07:06.698668 [412584 10739128][INFO] SubConverter v0.7.2 starting up..
+]0;SubConverter v0.7.22025/05/24 Sat 19:07:06.700133 [412584 10739128][INFO] Reading preference settings...
+2025/05/24 Sat 19:07:06.725151 [412584 10739128][INFO] Updating ruleset url 'rules/LocalAreaNetwork.list' with group '🎯 全球直连'.
+2025/05/24 Sat 19:07:06.725308 [412584 10739128][INFO] Updating ruleset url 'rules/MSServices.list' with group 'Ⓜ️ 微软服务'.
+2025/05/24 Sat 19:07:06.725439 [412584 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Unbreak.list' with group '🎯 全球直连'.
+2025/05/24 Sat 19:07:06.725577 [412584 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/AdRule.list' with group '🛑 全球拦截'.
+2025/05/24 Sat 19:07:06.726125 [412584 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list' with group '🛑 全球拦截'.
+2025/05/24 Sat 19:07:06.726266 [412584 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Video/Netflix.list' with group '🎥 NETFLIX'.
+2025/05/24 Sat 19:07:06.726401 [412584 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Streaming.list' with group '🌍 国外媒体'.
+2025/05/24 Sat 19:07:06.726555 [412584 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Bilibili.list' with group '🌏 国内媒体'.
+2025/05/24 Sat 19:07:06.726667 [412584 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/iQiyi.list' with group '🌏 国内媒体'.
+2025/05/24 Sat 19:07:06.726776 [412584 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Letv.list' with group '🌏 国内媒体'.
+2025/05/24 Sat 19:07:06.726873 [412584 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/MOO.list' with group '🌏 国内媒体'.
+2025/05/24 Sat 19:07:06.726985 [412584 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Tencent Video.list' with group '🌏 国内媒体'.
+2025/05/24 Sat 19:07:06.727105 [412584 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Youku.list' with group '🌏 国内媒体'.
+2025/05/24 Sat 19:07:06.727226 [412584 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list' with group '📲 电报信息'.
+2025/05/24 Sat 19:07:06.727326 [412584 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Global.list' with group '🔰 节点选择'.
+2025/05/24 Sat 19:07:06.727483 [412584 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Apple/Apple.list' with group '🍎 苹果服务'.
+2025/05/24 Sat 19:07:06.727626 [412584 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/China.list' with group '🎯 全球直连'.
+2025/05/24 Sat 19:07:06.727769 [412584 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/Download.list' with group '🎯 全球直连'.
+2025/05/24 Sat 19:07:06.727882 [412584 10739128][INFO] Adding rule 'GEOIP,CN,🎯 全球直连'.
+2025/05/24 Sat 19:07:06.727930 [412584 10739128][INFO] Adding rule 'FINAL,🐟 漏网之鱼'.
+2025/05/24 Sat 19:07:06.727993 [412584 10739128][INFO] Reading generator configuration...
+2025/05/24 Sat 19:07:06.728048 [412584 10739128][INFO] Read generator configuration completed.
+
+2025/05/24 Sat 19:07:06.728072 [412584 10739128][INFO] Generating all artifacts...
+2025/05/24 Sat 19:07:06.728096 [412584 10739128][INFO] Generating artifact 'test'...
+2025/05/24 Sat 19:07:06.728174 [412584 10739128][VERB] Imported 0 item(s).
+2025/05/24 Sat 19:07:06.728241 [412584 10739128][INFO] Fetching node data from url '../../temp/clash.yaml'.
+2025/05/24 Sat 19:07:06.729693 [412584 10739128][VERB] Received Link.
+2025/05/24 Sat 19:07:06.729729 [412584 10739128][VERB] Parsing configuration file data...
+2025/05/24 Sat 19:07:06.734786 [412584 10739128][VERB] Node  SSProvider - 🇭🇰 [专线] 广港 电信|6x  has been added.
+2025/05/24 Sat 19:07:06.734823 [412584 10739128][VERB] Node  SSProvider - 🇭🇰 [专线] 广港 联通|6x  has been added.
+2025/05/24 Sat 19:07:06.734853 [412584 10739128][VERB] Node  SSProvider - 🇸🇬 [专线] 新加坡 BGP|4x  has been added.
+2025/05/24 Sat 19:07:06.734883 [412584 10739128][VERB] Node  SSProvider - 🇯🇵 [专线] 日本 BGP|4x  has been added.
+2025/05/24 Sat 19:07:06.734912 [412584 10739128][VERB] Node  SSProvider - 🇭🇰 [专线] 深港 BGP|3x  has been added.
+2025/05/24 Sat 19:07:06.734941 [412584 10739128][VERB] Node  SSProvider - 🇭🇰 [专线] 深港 电信|3x  has been added.
+2025/05/24 Sat 19:07:06.734970 [412584 10739128][VERB] Node  SSProvider - 🇭🇰 [专线] 深港 移动|3x  has been added.
+2025/05/24 Sat 19:07:06.734999 [412584 10739128][VERB] Node  SSProvider - 🇭🇰 [专线] 深港 联通|3x  has been added.
+2025/05/24 Sat 19:07:06.735028 [412584 10739128][VERB] Node  SSProvider - 🇭🇰 [专线] 香港家宽 BGP|4x  has been added.
+2025/05/24 Sat 19:07:06.735057 [412584 10739128][VERB] Node  SSProvider - 🇺🇦 [隧道] 乌克兰|2x  has been added.
+2025/05/24 Sat 19:07:06.735086 [412584 10739128][VERB] Node  SSProvider - 🇷🇺 [隧道] 俄罗斯|2x  has been added.
+2025/05/24 Sat 19:07:06.735115 [412584 10739128][VERB] Node  SSProvider - 🇦🇶 [隧道] 南极洲|2x  has been added.
+2025/05/24 Sat 19:07:06.735144 [412584 10739128][VERB] Node  SSProvider - 🇹🇼 [隧道] 台湾家宽A|2x  has been added.
+2025/05/24 Sat 19:07:06.735173 [412584 10739128][VERB] Node  SSProvider - 🇹🇼 [隧道] 台湾家宽B|2x  has been added.
+2025/05/24 Sat 19:07:06.735203 [412584 10739128][VERB] Node  SSProvider - 🇹🇼 [隧道] 台湾家宽C|2x  has been added.
+2025/05/24 Sat 19:07:06.735231 [412584 10739128][VERB] Node  SSProvider - 🇹🇷 [隧道] 土耳其|2x  has been added.
+2025/05/24 Sat 19:07:06.735260 [412584 10739128][VERB] Node  SSProvider - 🇩🇪 [隧道] 德国A|2x  has been added.
+2025/05/24 Sat 19:07:06.735288 [412584 10739128][VERB] Node  SSProvider - 🇩🇪 [隧道] 德国B|2x  has been added.
+2025/05/24 Sat 19:07:06.735317 [412584 10739128][VERB] Node  SSProvider - 🇸🇬 [隧道] 新加坡A|2x  has been added.
+2025/05/24 Sat 19:07:06.735346 [412584 10739128][VERB] Node  SSProvider - 🇸🇬 [隧道] 新加坡B|2x  has been added.
+2025/05/24 Sat 19:07:06.735375 [412584 10739128][VERB] Node  SSProvider - 🇸🇬 [隧道] 新加坡C|2x  has been added.
+2025/05/24 Sat 19:07:06.735404 [412584 10739128][VERB] Node  SSProvider - 🇯🇵 [隧道] 日本A|2x  has been added.
+2025/05/24 Sat 19:07:06.735432 [412584 10739128][VERB] Node  SSProvider - 🇯🇵 [隧道] 日本B|2x  has been added.
+2025/05/24 Sat 19:07:06.735460 [412584 10739128][VERB] Node  SSProvider - 🇲🇴 [隧道] 澳门|2x  has been added.
+2025/05/24 Sat 19:07:06.735489 [412584 10739128][VERB] Node  SSProvider - 🇺🇸 [隧道] 美国A|2x  has been added.
+2025/05/24 Sat 19:07:06.735517 [412584 10739128][VERB] Node  SSProvider - 🇺🇸 [隧道] 美国B|2x  has been added.
+2025/05/24 Sat 19:07:06.735551 [412584 10739128][VERB] Node  SSProvider - 🇺🇸 [隧道] 美国家宽|2x  has been added.
+2025/05/24 Sat 19:07:06.735579 [412584 10739128][VERB] Node  SSProvider - 🇬🇧 [隧道] 英国|2x  has been added.
+2025/05/24 Sat 19:07:06.735609 [412584 10739128][VERB] Node  SSProvider - 🇵🇭 [隧道] 菲律宾 家宽|2x  has been added.
+2025/05/24 Sat 19:07:06.735637 [412584 10739128][VERB] Node  SSProvider - 🇻🇳 [隧道] 越南|2x  has been added.
+2025/05/24 Sat 19:07:06.735666 [412584 10739128][VERB] Node  SSProvider - 🇦🇷 [隧道] 阿根廷|2x  has been added.
+2025/05/24 Sat 19:07:06.735694 [412584 10739128][VERB] Node  SSProvider - 🇰🇷 [隧道] 韩国|2x  has been added.
+2025/05/24 Sat 19:07:06.735723 [412584 10739128][VERB] Node  SSProvider - 🇰🇷 [隧道] 韩国 家宽|3x  has been added.
+2025/05/24 Sat 19:07:06.735751 [412584 10739128][VERB] Node  SSProvider - 🇭🇰 [隧道] 香港A|2x  has been added.
+2025/05/24 Sat 19:07:06.735779 [412584 10739128][VERB] Node  SSProvider - 🇭🇰 [隧道] 香港B|2x  has been added.
+2025/05/24 Sat 19:07:06.735807 [412584 10739128][VERB] Node  SSProvider - 🇭🇰 [隧道] 香港C|2x  has been added.
+2025/05/24 Sat 19:07:06.735836 [412584 10739128][VERB] Node  SSProvider - 🇭🇰 [隧道] 香港E 解锁|2x  has been added.
+2025/05/24 Sat 19:07:06.735865 [412584 10739128][VERB] Node  SSProvider - 🇭🇰 [隧道] 香港家宽|2x  has been added.
+2025/05/24 Sat 19:07:06.735894 [412584 10739128][VERB] Node  SSProvider - 🇭🇰 [隧道] 香港家宽B|2x  has been added.
+2025/05/24 Sat 19:07:06.735923 [412584 10739128][VERB] Node  SSProvider - 🇲🇾 [隧道] 马来西亚 家宽|2x  has been added.
+2025/05/24 Sat 19:07:06.735952 [412584 10739128][VERB] Node  V2RayProvider - 🇹🇼 [直连] 台湾家宽B  has been added.
+2025/05/24 Sat 19:07:06.735981 [412584 10739128][VERB] Node  V2RayProvider - 🇹🇼 [直连] 台湾家宽C  has been added.
+2025/05/24 Sat 19:07:06.736010 [412584 10739128][VERB] Node  V2RayProvider - 🇹🇼 [直连] 台湾家宽D  has been added.
+2025/05/24 Sat 19:07:06.736039 [412584 10739128][VERB] Node  V2RayProvider - 🇹🇼 [直连] 台湾家宽G  has been added.
+2025/05/24 Sat 19:07:06.736068 [412584 10739128][VERB] Node  V2RayProvider - 🇺🇸 [直连] 美国 防失联用  has been added.
+2025/05/24 Sat 19:07:06.736092 [412584 10739128][VERB] Filter done.
+2025/05/24 Sat 19:07:06.736802 [412584 10739128][INFO] Generate target: Clash
+2025/05/24 Sat 19:07:06.769493 [412584 10739128][INFO] Generate completed.
+2025/05/24 Sat 19:07:06.770008 [412584 10739128][INFO] Artifact 'test' generate SUCCESS!
+
+2025/05/24 Sat 19:07:06.770037 [412584 10739128][INFO] Generating artifact 'test_profile'...
+2025/05/24 Sat 19:07:06.770081 [412584 10739128][INFO] Trying to load profile 'profiles/example_profile.ini'.
+2025/05/24 Sat 19:07:06.770117 [412584 10739128][INFO] Trying to parse profile 'profiles/example_profile.ini'.
+2025/05/24 Sat 19:07:06.770259 [412584 10739128][VERB] Imported 0 item(s).
+2025/05/24 Sat 19:07:06.770300 [412584 10739128][INFO] Fetching node data from url 'ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwYXNzd29yZA@www.example.com:1080#Example'.
+2025/05/24 Sat 19:07:06.771574 [412584 10739128][VERB] Received Link.
+2025/05/24 Sat 19:07:06.771661 [412584 10739128][INFO] Generate target: Clash
+2025/05/24 Sat 19:07:06.792655 [412584 10739128][INFO] Generate completed.
+2025/05/24 Sat 19:07:06.793273 [412584 10739128][INFO] Artifact 'test_profile' generate SUCCESS!
+
+2025/05/24 Sat 19:07:06.793301 [412584 10739128][INFO] All artifact generated. Exiting...
