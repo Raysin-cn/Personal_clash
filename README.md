@@ -71,8 +71,6 @@ Clash订阅地址可访问！                                      [  OK  ]
 Clash Dashboard 访问地址：http://<ip>:9090/ui
 Secret：xxxxxxxxxxxxx
 
-请执行以下命令加载环境变量: source /etc/profile.d/clash.sh
-
 请执行以下命令开启系统代理: proxy_on
 
 若要临时关闭系统代理，请执行: proxy_off
@@ -80,9 +78,11 @@ Secret：xxxxxxxxxxxxx
 ```
 
 ```bash
-$ source /etc/profile.d/clash.sh
+$ source ./clash.sh
 $ proxy_on
 ```
+
+## NOTE: 可以将该repo的bash脚本配置到用户个人配置(~/.bashrc)中声明函数来执行，会非常方便。
 
 - 检查服务端口
 
@@ -141,7 +141,7 @@ $ proxy_off
 
 <br>
 
-## Clash Dashboard
+## Clash Dashboard (TBD)
 
 - 访问 Clash Dashboard
 
