@@ -3,24 +3,24 @@
 echo "开始验证 Clash 代理配置..."
 
 # 检查代理端口是否在监听
-if netstat -tuln | grep ":7890" > /dev/null; then
-    echo "✅ 代理端口 7890 正在监听"
+if netstat -tuln | grep ":7893" > /dev/null; then
+    echo "✅ 代理端口 7893 正在监听"
 else
-    echo "❌ 代理端口 7890 未在监听"
+    echo "❌ 代理端口 7893 未在监听"
     exit 1
 fi
 
 # 检查 API 端口是否在监听
-if netstat -tuln | grep ":9090" > /dev/null; then
-    echo "✅ API 端口 9090 正在监听"
+if netstat -tuln | grep ":9091" > /dev/null; then
+    echo "✅ API 端口 9091 正在监听"
 else
-    echo "❌ API 端口 9090 未在监听"
+    echo "❌ API 端口 9091 未在监听"
     exit 1
 fi
 
 # 设置临时代理环境变量
-export http_proxy="http://127.0.0.1:7890"
-export https_proxy="http://127.0.0.1:7890"
+export http_proxy="http://127.0.0.1:7893"
+export https_proxy="http://127.0.0.1:7893"
 
 # 测试代理连接
 echo "正在测试代理连接..."

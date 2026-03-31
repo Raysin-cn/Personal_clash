@@ -74,6 +74,22 @@ if_success() {
 
 #################### 任务执行 ####################
 
+## 停止可能存在的旧 Clash 进程
+echo -e '\n正在检查并停止旧的 Clash 进程...'
+CURRENT_USER=$(whoami)
+if ps aux | grep "[c]lash-linux-amd64" | grep -q "$CURRENT_USER"; then
+	pkill -u "$CURRENT_USER" -f clash-linux-amd64
+	sleep 2
+	# 如果还有进程，强制停止
+	if ps aux | grep "[c]lash-linux-amd64" | grep -q "$CURRENT_USER"; then
+		pkill -9 -u "$CURRENT_USER" -f clash-linux-amd64
+		sleep 1
+	fi
+	echo "✅ 旧 Clash 进程已停止"
+else
+	echo "✅ 没有运行中的 Clash 进程"
+fi
+
 ## 获取CPU架构信息
 # Source the script to get CPU architecture
 source $Server_Dir/scripts/get_cpu_arch.sh
@@ -187,11 +203,11 @@ echo ''
 cat>$Server_Dir/clash.sh<<EOF
 # 开启系统代理
 function proxy_on() {
-	export http_proxy=http://127.0.0.1:7890
-	export https_proxy=http://127.0.0.1:7890
+	export http_proxy=http://127.0.0.1:7893
+	export https_proxy=http://127.0.0.1:7893
 	export no_proxy=127.0.0.1,localhost
-    	export HTTP_PROXY=http://127.0.0.1:7890
-    	export HTTPS_PROXY=http://127.0.0.1:7890
+    	export HTTP_PROXY=http://127.0.0.1:7893
+    	export HTTPS_PROXY=http://127.0.0.1:7893
  	export NO_PROXY=127.0.0.1,localhost
 	echo -e "\033[32m[√] 已开启代理\033[0m"
 }
